@@ -1,0 +1,28 @@
+_repo: The-Rider-of-Waroona_27061
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scott, G. Firth
+    aliases:
+    - Scott, George Henry Firth
+    - Scott, Firth
+    deathdate: 1935
+    gutenberg_agent_id: '31549'
+    url: http://www.gutenberg.org/2009/agents/31549
+description: ''
+gutenberg_issued: '2008-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27061'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Australia -- Fiction'
+title: The Rider of Waroona
+url: http://www.gutenberg.org/ebooks/27061
